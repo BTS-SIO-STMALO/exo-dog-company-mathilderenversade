@@ -57,6 +57,7 @@ main {
     padding-top: 25px;
 }
 
+
 aside p {
     font-style: italic;
     font-size: 0.6em;
@@ -103,6 +104,12 @@ span {
     text-decoration: none;
     display: block;
 }
+
+/*
+#produits a:last-child{
+    margin-bottom: 0px;
+}
+*/
 
 /* super bonus */
 
